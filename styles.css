@@ -99,6 +99,18 @@ nav .social-icons a {
 
 .blog {
     margin-top: 2rem;
+    color:white;
+    font-size: x-large;
+    text-shadow: 1px 1px 0 #d4a1ff,
+    2px 2px 0 #c48eff,
+    3px 3px 0 #b47bff,
+    4px 4px 0 #a468ff,
+    5px 5px 0 #9455ff,
+    6px 6px 0 #8442ff,
+    7px 7px 0 #742fff,
+    8px 8px 0 #641cff,
+    9px 9px 0 #5409ff,
+    10px 10px 0 #4400ff; /* Purple text shadow */
 }
 
 footer {
